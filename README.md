@@ -35,8 +35,3 @@ L'objectif principal de ce TP est de :
 
 - Documentation scikit-learn : https://scikit-learn.org/stable/documentation.html
 
-## Auteur
-
-Ce projet a été réalisé par [Votre Nom].
-
-Pour toute question ou commentaire, veuillez me contacter à [votre email].
